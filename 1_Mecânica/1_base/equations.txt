@@ -1,0 +1,4 @@
+﻿"width"= 1180mm
+"heght"= 90mm
+"D1@Esboço1"="width"
+"D2@Esboço1"="heght"
